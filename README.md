@@ -1,5 +1,5 @@
 # Multi-label Classification Project
-This is a repository on my multi label classification project on the Costa-rican-household-poverty-prediction dataset.
+This is a repository on my multi label classification project on the Costa-rican-household-poverty-prediction dataset where we have to predict the hoursehold type of the families based on a select set of features.
 
 You can find the dataset here : https://www.kaggle.com/c/costa-rican-household-poverty-prediction
 
