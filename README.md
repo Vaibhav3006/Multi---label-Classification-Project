@@ -10,7 +10,7 @@ It is a multi-label classification problem with 4 labels:
 3.	Moderate Poverty
 4. NonVulnerable
 
-It is also an instance of imbalanced classes due to a skew towrds the 4th label, i.e. the NonVulnerable class as is evident from the following graphic:
+It is also **an instance of imbalanced classes** due to a skew towrds the 4th label, i.e. the NonVulnerable class as is evident from the following graphic:
 
 ![download](https://user-images.githubusercontent.com/53376072/78048749-d213f280-7397-11ea-860c-9b2d16a6012e.png)
 
